@@ -1,0 +1,11 @@
+C:\Temp\DeviceInfo\bin\Debug\DeviceInfo.exe.config
+C:\Temp\DeviceInfo\bin\Debug\DeviceInfo.exe
+C:\Temp\DeviceInfo\bin\Debug\DeviceInfo.pdb
+C:\Temp\DeviceInfo\bin\Debug\DeviceInfo.xml
+C:\Temp\DeviceInfo\obj\Debug\DeviceInfo.vbproj.AssemblyReference.cache
+C:\Temp\DeviceInfo\obj\Debug\DeviceInfo.Resources.resources
+C:\Temp\DeviceInfo\obj\Debug\DeviceInfo.vbproj.GenerateResource.cache
+C:\Temp\DeviceInfo\obj\Debug\DeviceInfo.vbproj.CoreCompileInputs.cache
+C:\Temp\DeviceInfo\obj\Debug\DeviceInfo.exe
+C:\Temp\DeviceInfo\obj\Debug\DeviceInfo.xml
+C:\Temp\DeviceInfo\obj\Debug\DeviceInfo.pdb

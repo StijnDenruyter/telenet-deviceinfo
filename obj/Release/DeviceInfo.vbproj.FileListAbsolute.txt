@@ -1,0 +1,11 @@
+C:\Temp\DeviceInfo\bin\Release\DeviceInfo.exe.config
+C:\Temp\DeviceInfo\bin\Release\DeviceInfo.exe
+C:\Temp\DeviceInfo\bin\Release\DeviceInfo.pdb
+C:\Temp\DeviceInfo\bin\Release\DeviceInfo.xml
+C:\Temp\DeviceInfo\obj\Release\DeviceInfo.vbproj.AssemblyReference.cache
+C:\Temp\DeviceInfo\obj\Release\DeviceInfo.Resources.resources
+C:\Temp\DeviceInfo\obj\Release\DeviceInfo.vbproj.GenerateResource.cache
+C:\Temp\DeviceInfo\obj\Release\DeviceInfo.vbproj.CoreCompileInputs.cache
+C:\Temp\DeviceInfo\obj\Release\DeviceInfo.exe
+C:\Temp\DeviceInfo\obj\Release\DeviceInfo.xml
+C:\Temp\DeviceInfo\obj\Release\DeviceInfo.pdb
